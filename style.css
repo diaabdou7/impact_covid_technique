@@ -1,0 +1,21 @@
+h1
+{
+	color: red;
+}
+
+h3
+{
+	color:green;
+}
+
+p{
+	color:blue;
+}
+.pied
+{
+	text-align: center;
+	width: 1600px;
+	height:auto;
+	background-color: blue;
+	
+}
